@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 
 web_model.zip
+docs
+web_model
+tarot_meanings_modern_fixed.json
